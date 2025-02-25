@@ -14,7 +14,7 @@ void Point::translate(double x, double y)
     Y += y;
 }
 
-double Point::distance(Point p)
+double Point::distance(Point &p)
 {
     return sqrt((X-p.X)*(X-p.X) + (Y-p.Y)*(Y-p.Y));
 }

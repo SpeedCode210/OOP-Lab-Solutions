@@ -3,6 +3,14 @@
         "string": "cpp",
         "format": "cpp",
         "vector": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "complex": "cpp",
+        "text_encoding": "cpp",
+        "compare": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp",
+        "iostream": "cpp"
     }
 }
