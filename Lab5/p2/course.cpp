@@ -16,7 +16,7 @@ Course::~Course()
 
 string Course::getCourseName() const
 {
-    return string();
+    return this->courseName;
 }
 
 void Course::addStudent(const string &name)
